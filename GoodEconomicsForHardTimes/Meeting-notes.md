@@ -29,6 +29,8 @@
 * Mainly talks about how migration is not necessarily a bad thing, but doesn't delve deeper into what's the benefit to the host country. Also, doesn't discuss much on the brain drain, and its economic impacts.
   
 * It seems a bit evident that they're leaning more towards the liberal side and giving a lot of examples to support their hypothesis
+  ```
+  By liberal we mean philosophical liberalism (John Lockes philosophy of liberalism, core tenants of private property, freedom of speech, democracy, etc.). Unfortunately this term is appropriated in modern American politics to mean the "left side of the isle". In this case we don't mean the common usage (theoretically both Democrats/Republicans are philosophically liberal). Defining this because "liberal" can be a heated term whereas liberal in this sense is the dry/boring/philosophical form.
 
 * Case for inmigration (migration within a country) is particularly interesting, and the cycle of development it creates
 
