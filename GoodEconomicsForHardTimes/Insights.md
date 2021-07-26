@@ -6,10 +6,6 @@
 
 ## Chapter 3 : The Pains from Trade
 
-## Chapter 4 : Likes, Wants and Needs
-
-### Intro
-
 * As usual, economists and common people have highly contrasting viewpoints when it comes to trade policy. Should we raise trade barriers on imports (restrict trade), or should we promote it?
 
 ### Stan Ulam's Challenge
@@ -49,6 +45,54 @@
 ### Don't start that trade warning
 
 ### If not tariffs, what? Ease mobility, accept immobility
+
+## Chapter 4 : Likes, Wants and Needs
+
+### De Gustibus Non Est Disputandum
+
+### Collective Action
+
+### Collective Reaction
+
+### The Doctor and the Saint
+
+### "Black guy asks Nation for change"
+
+### This time it's different
+
+### Statistical Discrimination
+
+### Self-reinforcing discrimination
+
+### Can African Americans play golf?
+
+### Acting white
+
+### Let's try to account for tastes
+
+### Motivated beliefs
+
+### Coherent arbitrariness
+
+### Robbers Cave
+
+### Homophily
+
+### Echo chambers and holograms
+
+### The new public space?
+
+### Networking not working
+
+### Running together
+
+### Students for fair admission vs Harvard
+
+### Cricket lessons
+
+### Zoning for peace
+
+### Rearranging the deck chairs
 
 ## Chapter 5 : The End of Growth?
 
