@@ -79,6 +79,7 @@
 * Here they mainly touch on discrimination, not so much directly on wants and needs, however they do highlight how a lot of this can be influenced by social conformity, and try to make a case for how inclusivity can help overcome discrimination and growing polarization.
 
 * Hearing out the other side, just allowing yourself to hear out the arguments, may not always directly make sense to you - as in the case of buying a TV example when the person doesn't have food to eat
+  * Quote by Voltaire - "I may not agree with you, but I'll protect to my death your right to say it"
 
 * Is better connectedness the reason for growing polarization?
   * Earlier, only the media or the people in power had the say (Winner gets to write the story), now everyone can share their story
