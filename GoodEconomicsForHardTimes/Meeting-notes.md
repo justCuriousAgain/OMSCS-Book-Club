@@ -71,3 +71,31 @@
 * The overall benefits from free trade in one industry/region come at the cost of livelihoods of other sector/region. It's important to ensure we create a social safety net for the people who are impacted when we take such a call
 
 * Another point to keep in mind is whether we're even asking the right questions. What are the other ways these problems can be framed?
+
+## Meeting Notes (28th July, 2021)
+
+### Chapter 4
+
+* Here they mainly touch on discrimination, not so much directly on wants and needs, however they do highlight how a lot of this can be influenced by social conformity, and try to make a case for how inclusivity can help overcome discrimination and growing polarization.
+
+* Hearing out the other side, just allowing yourself to hear out the arguments, may not always directly make sense to you - as in the case of buying a TV example when the person doesn't have food to eat
+
+* Is better connectedness the reason for growing polarization?
+  * Earlier, only the media or the people in power had the say (Winner gets to write the story), now everyone can share their story
+  * The problem is with echo chambers and filter bubbles, which puts you in circle with people having similar beliefs as you, and the same thoughts or ideology fed back in a loop reinforces those beliefs and make it harder to unlearn.
+
+* Allowing people to choose automatically has the impact of bringing people to the centre or making them more neutral - depends on their goals, and whether the topic has any political angle to it or not
+
+* Voters voting for a person from their caste - more of apathy and familiarity than any particular affection for their caste
+
+* "Personality predates ideology" - relation to how you allow yourself be swayed by these echo chambers or certain ideologies
+
+* Affordable care Act vs Obamacare (catch: they're the same, and the name was put by Republicans, not Democrats)
+
+* Self-discrimination - How being reminded of your stereotypes can impact performance on certain parameters
+  * Just to overcome those stereotypes, some people have had to put in double the effort to stand out and being accepted
+
+* Impact on policy - making schools more inclusive? Creating government housing in neighborhoods to allow mixing.
+  * Impact of dorm allocations based on regions, or ranks in the entrance exam and the impact on the personality, ideology and beliefs of the individuals
+
+* How does this all relate to economics? - Well, economics is really about people and the dynamics of value in a society, more than anything else
