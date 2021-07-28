@@ -83,6 +83,7 @@
 * Is better connectedness the reason for growing polarization?
   * Earlier, only the media or the people in power had the say (Winner gets to write the story), now everyone can share their story
   * The problem is with echo chambers and filter bubbles, which puts you in circle with people having similar beliefs as you, and the same thoughts or ideology fed back in a loop reinforces those beliefs and make it harder to unlearn.
+  * Reference to Newt Gingrich (Republican elected in 1994): [The Man who broke politics - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/11/newt-gingrich-says-youre-welcome/570832/)
 
 * Allowing people to choose automatically has the impact of bringing people to the centre or making them more neutral - depends on their goals, and whether the topic has any political angle to it or not
 
