@@ -101,3 +101,35 @@
   * Impact of dorm allocations based on regions, or ranks in the entrance exam and the impact on the personality, ideology and beliefs of the individuals
 
 * How does this all relate to economics? - Well, economics is really about people and the dynamics of value in a society, more than anything else
+
+## Meeting Notes (11th August, 2021)
+
+* Green Knight Movie (Not in the environmental sense)
+
+### Chapter 6
+
+* Limitations of GDP based reasoning (growing the pie)
+
+* Carbon pricing/credits Tesla - money from government grants, who pays for the environment question
+
+* Carbon taxes and who bears the burden - French have a different level of protesting
+
+* Air-conditioning and use of clean-tech in Indian context, productivity and Maslow's hierarchy of Needs. Simple changes like using a clean stove etc can be influenced by a lot of socio-economic and psychological factors ()
+
+* Promoting safe and clean technologies by incentivizing distributors (they get more commission on installing environmental friendly devices etc.)
+
+* Delhi, its polllution levels, influence of political conflicts (different governments in Delhi and neighboring states), which makes it a "your problem, not mine" kind of situation. Public transport, odd-even etc helped but not a solution, unless the crop burning stops.
+
+* The claim is that poorer countries will be the more severely impacted by climate change, and that gives even lesser incentive to the rick countries to pay for it. But it's important to realize even if the effects might not be as direct as in countries near the equator, the indirect effects are a lot. For instance, remember the example of a nuclear test being conducted in the vicinity of a residential town led to complications in people's health, reproductive potential etc. Similarly, over the years, change in environmental levels of carbon have contributed to nutritional deficiency in the crops, which leads to higher food consumption for getting the same amount of nutrition, and in turn obesity, and higher risk of disease and death
+
+* Bladerunner vs Star-trek analogy - Without mindset/social change, involving the younger generation in the discussion, the situation will be similar to "if your house is on fire, you say, oh, let's divert it to the bedroom or the veranda instead of putting it out". Sure that could be means to a solution, but not the end in itself
+
+* Tethering the earth with the space station - Space capsule?
+
+* Larger institutions contributing to majority (like Military, Bitcoin mining, AI etc.). How would individual contributions or sacrifices make a difference this way? 10% of entities responsible for more than 50% of emissions
+
+* Will we get out of this mess, if at all, if yes, how? Will it come throught technological innovation or societal change is necessary? How do you align the actors towards a common goal?
+
+* Solutions discussed more in the context of capitalistic or economic markets based mindset. How does the situation work for communist economies etc. Capitalism is profit driven so it's usually very flexible and adaptive as long as there's profit potential
+
+* Instead of asking people to change their behavior, give them a system which automaticallly shifts their behavior, they usually won't go back. People have a lot of inertia. Take the example of smartphone apps. They don't always explicitly ask for every permission, instead they just provide the option for you to turn it off if you want, which people usually don't do
