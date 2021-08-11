@@ -126,6 +126,8 @@
 
 * Tethering the earth with the space station - Space capsule?
 
+* Freakonomics episode - Prophet vs Wizard <https://freakonomics.com/podcast/save-the-planet/>
+
 * Larger institutions contributing to majority (like Military, Bitcoin mining, AI etc.). How would individual contributions or sacrifices make a difference this way? 10% of entities responsible for more than 50% of emissions
 
 * Will we get out of this mess, if at all, if yes, how? Will it come throught technological innovation or societal change is necessary? How do you align the actors towards a common goal?
