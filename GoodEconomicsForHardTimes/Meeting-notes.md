@@ -143,6 +143,7 @@
 ### Chapter 7
 
 * The starting of this chapter relates to the points in the book "Hello World" by Hannah fry and "The War on Normal People" by Andrew Yang. Also, interestingly brings home the point that a lot of problems in the economy are not actually economic in nature (there's no economic iron law preventing you from creating a more humane world), but rather political in nature driven by people's ignorance, self-interests or resistance to change.
+  * Also, a lot of times, consequences are largely due to incompetence than pure malice.
 
 * Even with automation, new jobs are created, however, as mentioned the adjustment can take very long to settle. People are not so fast at adapting, especially people who are 40 and above, because of the additional constraints of family/parental responsibilities, health issues etc. The young ones might be okay though. Again that depends on the level of privilege they're coming from. However, nobody really knows how it's actually going to turn out.
 
