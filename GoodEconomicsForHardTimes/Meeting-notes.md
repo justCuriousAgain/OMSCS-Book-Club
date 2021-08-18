@@ -169,4 +169,4 @@
 
   * China's rising middle class. Govt attempts against ultra rich, sesame credit etc.
 
-  * The rise of blockchain and the recent interventions by the government to ban private enterprises
+  * The rise of blockchain and the recent interventions by the government to ban some large private enterprises
