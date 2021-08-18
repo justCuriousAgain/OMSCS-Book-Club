@@ -135,3 +135,38 @@
 * Solutions discussed more in the context of capitalistic or economic markets based mindset. How does the situation work for communist economies etc. Capitalism is profit driven so it's usually very flexible and adaptive as long as there's profit potential
 
 * Instead of asking people to change their behavior, give them a system which automaticallly shifts their behavior, they usually won't go back. People have a lot of inertia. Take the example of smartphone apps. They don't always explicitly ask for every permission, instead they just provide the option for you to turn it off if you want, which people usually don't do
+
+## Meeting Notes (18th August, 2021)
+
+* Dall-E movie by Pixar
+
+### Chapter 7
+
+* The starting of this chapter relates to the points in the book "Hello World" by Hannah fry and "The War on Normal People" by Andrew Yang. Also, interestingly brings home the point that a lot of problems in the economy are not actually economic in nature (there's no economic iron law preventing you from creating a more humane world), but rather political in nature driven by people's ignorance, self-interests or resistance to change.
+
+* Even with automation, new jobs are created, however, as mentioned the adjustment can take very long to settle. People are not so fast at adapting, especially people who are 40 and above, because of the additional constraints of family/parental responsibilities, health issues etc. The young ones might be okay though. Again that depends on the level of privilege they're coming from. However, nobody really knows how it's actually going to turn out.
+
+* Related to the sticky economy concept brought up in the migration chapter. People won't just automatically move to places where there are more jobs.
+
+* Interesting point on the tax bias towards labor vs machine which makes it beneficial for corporations to go with robots and automation even if they're not as efficient or are more costly than labor. Also, deprecation in machines can be used to waive off taxes, and fricton between corps and labor unions doesn't help either.
+
+* Reagan and Thatcher's era, the policy decisions of reducing the taxes - trickle down economics - doesn't work in practice though. The inequality actually increased, the real wages in many cases at the bottom actually went down. At that time, there was no data to support that focusing on growth by reducing taxes won't help, but now it's showing. However, there's another catch. If you try to increase taxes, you might be self-sabotaging as a political party since the same people you're planning to tax more are the ones who finance your campaigns, and with the cap on campaign financing removed, this makes the transition even harder. Also, more taxes just incentivise people to find new ways of evading those. It can't work very well unless everyone comes on the same page which is highly unlikely to happen in the near future. (Example - recent talks on the tax rates were shut down by Ireland)
+
+* Less taxation on money made through stocks etc. Capital gains tax.
+
+* CEO pay - relation to sports - winning matters - The people at the top don't really care too much about the exact figures they make as long as they maintain the title of being at the top or the best. This is actually a reasonable way to help the money trickle down and allow more opportunities to tackle inequality.
+
+* Finance and brain drain - Because of extremely high incomes in the finance industry, a lot of great talent is lost to it (Trend common in India too: Graduates from top colleges leaving their core fields/majors and drifting to finance and software jobs, not just in the western world), which has 3 problems at least:
+  * A lot of smart people tend to work on the same problems, so the marginal value they're adding becomes insignificant.
+  * A large number of potential opportunities and innovations in other domains are lost, or never get to fruition.
+  * Due to the concentration being in certain fields, it restricts other fields from even growing, since the social circle matters and you're more likely to be working with smarter people if you're in the fields they're concentrated in and that creates a vicious loop.
+
+* The issue with american dream - numerous factors may be stacked against you which prevent you from rising, but the perception is that you're not able to grow so you're the one who's lazy, you're not working hard enough etc.
+  
+* Higher mortality among the less than college educated white people - depression - mental health - outlet in the form of despair, anger and desperation - political extremism - self help industry boost - more vulnerable people to exploit - affiliate marketing - babas in India, etc.
+  
+* 9% making it to the top is not bad at all. Not everyone's going to ride a Ferrari or a Mazerati, nor they care. But they should atleast be able to live a comfortable life with dignity - China's making attempts for that, to bring people up from destitute poverty, which helps garner more support for the government too. The tradeoffs are different there.
+
+  * China's rising middle class. Govt attempts against ultra rich, sesame credit etc.
+
+  * The rise of blockchain and the recent interventions by the government to ban private enterprises
