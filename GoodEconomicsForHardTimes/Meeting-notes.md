@@ -171,3 +171,35 @@
   * China's rising middle class. Govt attempts against ultra rich, sesame credit etc.
 
   * The rise of blockchain and the recent interventions by the government to ban some large private enterprises
+
+## Meeting Notes (1st September, 2021)
+
+### Chapter 9 and Conclusion
+
+* UBI
+  * Pressure to inflation - commodities being same - prices go up - example Vancouver housing
+  * Cost prohibitive
+  * Some unemployment benefits higher than minimum wage jobs -
+
+* Sense of meaning from jobs
+  * Old people out of jobs, dying soon
+
+* If the incentive to work is lost, this might adversaly affect some industries
+
+* Flexicurity, UUBI, Negative Income Tax, Progressive taxation
+
+* Making it require some effort which would make it pointless for malicious actors - but risk of economic turmoil - FDIC - can create a deficit in the economy, similar to the Great Depression
+
+* No more money left for any other schemes after being used up in UBI can be problematic in itself
+
+* Denmark - not firing people even when they've aged out of their productive years - to maintain dignity - has a related Japanese term to describe the elderly workers
+
+* Not just enough to give money; dignity, respect, autonomy and assets are equally important to maintain the sanity of society
+
+* Poor are not the problem. Their systematic exclusion is.
+
+* Impact of neighborhoods - change in the quality of life - the first black record producer - blended due to his lighter skin. Another example can be found in Steve Jobs's biography by Walter Isaacson.
+
+* Reweighting required to fix inequalities. Equality of opportunity doesn't really exist yet. Blind evaluation could be a good way, so that people get selected purely on merit.
+
+* Sticky economy, the tradeoffs of trade
