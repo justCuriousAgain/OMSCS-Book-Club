@@ -4,7 +4,7 @@
 
 ### Introduction and Chapter 1
 
-* Typically helpful to take the contrarian side
+* Important to consider the contrarian side as well if you feel you're agreeing too much with the author
 * Outcome driven actions vs identity driven actions
 * Intro feels almost like movie-ish; relatable through a personal story; and starts with an interesting hook
 * Building an environment that allows for comfortable failing
