@@ -1,6 +1,11 @@
 # OMSCS-Book-Club
 
-  * This Repo is organized as a directory per each book. Each directory has two sections in it:
+* Meetings - weekly : 
+  * US subgroup - Tuesdays 8.30 pm ET
+  * Asia subgroup - Thursdays 8.30 pm IST
+  * EU subgroup - Tuesdays 8.30 pm CET
+ 
+* This Repo is organized as a directory for each book. Each directory has two sections in it:
     * Meeting-Notes:
       * This is a summary or the key take-aways from the weekly discussions on the Discord server
     * Insights:
