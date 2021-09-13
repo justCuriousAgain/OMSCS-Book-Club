@@ -24,23 +24,25 @@
 
 ## Meeting Notes (9th September, 2021)
 ### Chapter 2: Sorting
-- Most compute power spent on sorting
-- Most social-media is sorting
-- Sorted 10% : Entire media experience
-- Dinner table example was good
-    - Interesting to read about dinner-table examples
-    - Relatables examples -
-- Recommendation systems - maximize hit-score
-- Library based book-sort: Bucket-sort
-- Web v/s Email:
-    - Email: search less → sorting less useful
-    - Web-search: Sorting is more useful
-    - Can't distribute emails
-- Search can be efficient : with sorting → reduce search space
-- Hiring: Remove the junk
-    - Elimination versus Selecting
-    - JEE and B-Schools
-- Oxford mathematician: 1-1
-    - 2nd position is false
-- Comparing-counting sorting
-- Premier League:
+* Most compute power spent on sorting: Interesting to analyze how important to analyse and optimize sorting
+* Most social-media is sorting content for the user - sorting might be based on different paramters (most recent, most viewed, etc.)
+* Entire media experience is also affected by how the content is sorted
+* Dinner table example was good
+    * Interesting to read about dinner-table examples
+    * Relatables examples which are relatable
+* Recommendation systems - maximize hit-score
+* Library based book-sort involves Bucket-sort
+* Web v/s Email:
+    * Email: search less → sorting less useful
+    * Web-search: Sorting is more useful
+    * Can't distribute emails over multiple data-centers unlike other web-content because incomplete emails being accessible to user is unacceptable
+* Search can be efficient with sorting → reduce search space
+* Hiring: Remove the junk applicantions
+    * Elimination versus Selecting
+    * JEE and B-Schools: Elimination needs to be adapted to manage the volume of applicants
+* Oxford mathematician: Great to know the pen-name of Lewis Carroll
+    * 2nd position is false
+* Comparing-counting sorting
+* Premier League and other sport leagues: 
+  * Many leagues play more games than are required to either make the competition more interesting or just sell more tickets
+  * Main reason why many matches or games can be not so interesting towards the end of the tournament
