@@ -2,7 +2,6 @@
 
 ## Meeting Notes (19th August, 2021)
 ### Chapter 1: Optimal Stopping
-$~$
 
 ## Meeting Notes (26th August, 2021)
 ### Chapter 2: Explore/Exploit
@@ -22,4 +21,26 @@ $~$
     * The recommendation function can choose to exploit previously liked or consumed content or 'explore' by suggesting newer content
     * In these cases, it is the computing system instea of the human making the 'explore-exploit' decision
 * Explore-exploit can be approached also from the Minimal regret approach where higher stake deicisions like drug-trials which impact human lives need to be taken
-$~$
+
+## Meeting Notes (9th September, 2021)
+### Chapter 2: Sorting
+- Most compute power spent on sorting
+- Most social-media is sorting
+- Sorted 10% : Entire media experience
+- Dinner table example was good
+    - Interesting to read about dinner-table examples
+    - Relatables examples -
+- Recommendation systems - maximize hit-score
+- Library based book-sort: Bucket-sort
+- Web v/s Email:
+    - Email: search less → sorting less useful
+    - Web-search: Sorting is more useful
+    - Can't distribute emails
+- Search can be efficient : with sorting → reduce search space
+- Hiring: Remove the junk
+    - Elimination versus Selecting
+    - JEE and B-Schools
+- Oxford mathematician: 1-1
+    - 2nd position is false
+- Comparing-counting sorting
+- Premier League:
