@@ -15,3 +15,7 @@
 * The effect of environment. What can you do now, that you won't be able to do later?
 * Started the book club to make that feedback loop :p Take the iterative deepening approach to review habits every once in a while
 * Joke about "83rd day of the Hard book on Economics :P"
+
+## Meeting Notes (15th September, 2021)
+
+### Chapter 2
