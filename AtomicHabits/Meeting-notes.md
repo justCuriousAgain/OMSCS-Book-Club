@@ -16,6 +16,27 @@
 * Started the book club to make that feedback loop :p Take the iterative deepening approach to review habits every once in a while
 * Joke about "83rd day of the Hard book on Economics :P"
 
-## Meeting Notes (15th September, 2021)
+## Meeting Notes (14th September, 2021)
 
-### Chapter 2
+### Chapter 2 and Chapter 3
+
+* *HCI is a lot of writing...* - Quin
+* There is a wide range of thoughts on identity as a tool for building habits. While some in the group say this resonates strongly with them, others don't find that it necessarily fits their current model for habit-building.
+* On the feedback loop between identity and habits, which comes first (the chicken or the egg)?
+* The formation of certain types of habits can be heavily influenced by factors outside your control (e.g. access to resources, age, stages of life, environment and peers).
+  * Discussed the example (from Gladwell's Outliers?) of kids in hockey. Kids who are slightly older than their peers tend to do better at the sport through adulthood because they were more developed than their peers at a young age.
+  * Mentioned that the book doesn't appear to talk much about:
+    * The role of privilege and access to resources in success/competency, and
+    * Other external factors
+* Latching on to certain identities can also hold one back:
+  * Specific example: being terrible at directions
+  * Working at the skill (being forced/encouraged to?) causes one to be better at it.
+* Can working on identity-building be a tool against imposter syndrome?
+  * Identity is self-determined but we need external measures as well, e.g. feedback from someone more senior.
+* On the four steps (cue - craving - response - reward):
+  * Missing one or two steps can affect how well one is able to build habits
+    * Being thrown off of good habits by the pandemic
+  * Why do rewards for many habits seem intrinsic while for good habits they often need to be manufactured?
+* Some helpful applications of tips from the books:
+  * Moving things (candy) out of sight
+  * Putting phone on silent while working
