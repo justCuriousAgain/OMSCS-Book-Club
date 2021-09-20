@@ -23,7 +23,7 @@
 * Explore-exploit can be approached also from the Minimal regret approach where higher stake deicisions like drug-trials which impact human lives need to be taken
 
 ## Meeting Notes (9th September, 2021)
-### Chapter 2: Sorting
+### Chapter 3: Sorting
 * Most compute power spent on sorting: Interesting to analyze how important to analyse and optimize sorting
 * Most social-media is sorting content for the user - sorting might be based on different paramters (most recent, most viewed, etc.)
 * Entire media experience is also affected by how the content is sorted
@@ -48,7 +48,7 @@
   * Main reason why many matches or games can be not so interesting towards the end of the tournament
 
 ## Meeting Notes (16th September, 2021)
-### Chapter 2: Caching
+### Chapter 4: Caching
 * Different techniques can be used to cache data or objects: LRU, FIFO, Random
   * Different techniques can perform better fot different scenarios & applications
 * Some CDNs may optimize for performance by sometimes showing older content when the most readily available server may not be synchronized with the latest updates
