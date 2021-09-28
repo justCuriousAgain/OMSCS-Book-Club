@@ -16,6 +16,18 @@
 * Started the book club to make that feedback loop :p Take the iterative deepening approach to review habits every once in a while
 * Joke about "83rd day of the Hard book on Economics :P"
 
-## Meeting Notes (15th September, 2021)
+## Meeting Notes (22nd September, 2021)
 
-### Chapter 2
+### Chapter 4 and 5
+
+* MTA - point and calling - Checklist manifesto
+* HCI - Watching a video - tap it and tap it to make it larger
+* Catch phrase (takiakalam) - subconscious cues
+* Reaching for phone when it hurts
+* It's about identity, but a plan is important too
+* Create a new habit 
+	* Al - Stop checking phone on waking up. Look out of the window.
+	* Frank - Trying to break off some bad habits
+	* Sonum - Start working early, and working out in the morning
+	* Pratik - Journaling
+	* Quin - Get the requisition done
