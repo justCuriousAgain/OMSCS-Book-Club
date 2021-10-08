@@ -65,3 +65,18 @@
   * Is more about sorting out the thoughts or being mindful than being without any thoughts at all
   * Headspace app example: Sitting by the road letting the traffic(cars == thoughts) pass by
   * Thoughts: Analogous to finding a way through a maze, not knowing what the next turn (next thought) will be
+
+## Meeting Notes (7th October, 2021)
+### Chapter 5: Scheduling
+	1. This chapter focuses on what to do, when to do and in what order?
+	2. One thing that would help in scheduling before the work even begins is: making our goals explicit
+	3. Maximum lateness: set of tasks as the lateness of whatever task has gone further past its due date
+	4. Earliest Due Date: starting with the task which  is due the soonest and working our way toward the task due last. Optimal for reducing 'maximum lateness'
+	5. 'Do the difficult things while they are easy and do the great things while they are small'
+	6. Shortest processing time: minimizing the sum of completion times. Shrinks the number of outstanding tasks as quickly as possible.
+	7. Weight: difference of importance of tasks. Suppose we have multiple debts with varying interest rates, then to avoid the 'debt avalanche', we have to ignore the number and size of your debts entirely, and simply funneling the money toward the debt with the single highest rate aka more weight.
+	8. Precedence constraint: when a certain task cannot be started until another one is finished.
+	9. Trashing: system running full-tilt and accomplishing nothing at all.
+ 
+Simple prescription for time management: each time a new piece of work comes in, divide it's importance by the amount of time it will take to complete.
+
