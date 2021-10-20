@@ -50,9 +50,26 @@
 * Catch phrase (takiakalam) - subconscious cues
 * Reaching for phone when it hurts
 * It's about identity, but a plan is important too
-* Create a new habit 
-	* Al - Stop checking phone on waking up. Look out of the window.
-	* Frank - Trying to break off some bad habits
-	* Sonum - Start working early, and working out in the morning
-	* Pratik - Journaling
-	* Quin - Get the requisition done
+* Create a new habit
+  * Al - Stop checking phone on waking up. Look out of the window.
+  * Frank - Trying to break off some bad habits
+  * Sonum - Start working early, and working out in the morning
+  * Pratik - Journaling
+  * Quin - Get the requisition done
+
+## Meeting Notes (20th October, 2021)
+
+### Chapter 12 and 13
+
+* Agriculture example a bit cherry-picked and oversimplified; the impact of aerable land and other factors ignored: <https://www.mapsofworld.com/answers/world/percent-agricultural-land-world/>
+  * The Japanese industry example from the 1970s-80s demonstrates the least effort law better
+* Getting into momentum (2 minute rule) helps but there needs to be fuel to keep it going - My gym example. Even though reached the gym, didn't feel like doing the workouts
+* Also, the environment organization is personal to each person; Someone's workspace might look totally messy to another person, but the person using that workspace organization might be efficient for the person using it
+* Friction and people in your environment can help make or break the habit - Family members change their plans and you gotta comply, hard to stay consistent when the environment is so unpredictable - Made it difficult for Sonum to follow through on the morning workout ritual
+* Value and impact of existing expertise, and the people around you (community, friends etc) - Quin's gym example where the new guy was struggling, but Quin's suggestion helped that person pick the right workout for the day and based on his current level
+* Quin's requisition too much effort, will need to waste his lunch break, and can't eat stuff for a day with not much use, so ditched it
+* Pratik started on the journalling thing, but a few events and travel broke the habit. Need to get into that again, and in a way that builds up without getting overwhelming
+* Procrastination - Tim Urban's article
+* Quin needs to get a new set of headphones/speakers - audio jack's broken
+* Needs to spend 3 months before spending money - If he's not dropped the idea then it's probably a good idea to buy the thing
+* Dishwasher hacks: <https://www.youtube.com/watch?v=_rBO8neWw04>
