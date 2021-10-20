@@ -64,7 +64,7 @@
 * Agriculture example a bit cherry-picked and oversimplified; the impact of aerable land and other factors ignored: <https://www.mapsofworld.com/answers/world/percent-agricultural-land-world/>
   * The Japanese industry example from the 1970s-80s demonstrates the least effort law better
 * Getting into momentum (2 minute rule) helps but there needs to be fuel to keep it going - My gym example. Even though reached the gym, didn't feel like doing the workouts
-* Also, the environment organization is personal to each person; Someone's workspace might look totally messy to another person, but the person using that workspace organization might be efficient for the person using it
+* Also, the environment organization is personal to each individual; Someone's workspace might look totally messy to another person, but that workspace organization might be efficient for the person using it
 * Friction and people in your environment can help make or break the habit - Family members change their plans and you gotta comply, hard to stay consistent when the environment is so unpredictable - Made it difficult for Sonum to follow through on the morning workout ritual
 * Value and impact of existing expertise, and the people around you (community, friends etc) - Quin's gym example where the new guy was struggling, but Quin's suggestion helped that person pick the right workout for the day and based on his current level
 * Quin's requisition too much effort, will need to waste his lunch break, and can't eat stuff for a day with not much use, so ditched it
